@@ -1,0 +1,20 @@
+#myVideo {
+    position: absolute; 
+    right: 0; 
+    bottom: 0;
+    min-width: 100%; 
+    max-height: 100%;
+    width: auto; 
+    height: auto; 
+    z-index: -100;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.welcome {
+    font-size: 5em;
+    position: fixed;
+    bottom: 50%;
+    color: #fff;
+    left: 40%;
+}
