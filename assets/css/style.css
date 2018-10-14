@@ -10,11 +10,3 @@
     object-fit: cover;
     overflow: hidden;
 }
-
-.welcome {
-    font-size: 5em;
-    position: fixed;
-    bottom: 50%;
-    color: #fff;
-    left: 40%;
-}
